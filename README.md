@@ -1,5 +1,6 @@
 # Code
-##This a script that has all that a beginner needs and even a professional can use it and can help anyone to see how python language work
+##This a script that has all that a beginner needs and even a professional can use it and can help anyone to see how python language work  
+
 This script has this content:
 -Declaration of Variables 
 -Data types
