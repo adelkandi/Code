@@ -3,17 +3,31 @@ This a script that has all that a beginner needs and even a professional can use
 
 ## This script has this content:
 -Declaration of Variables 
+
 -Data types
--Operations in python 
+
+-Operations in python
+
 -Condition statement
+
 -loops in python
+
 -Math and random modules
+
 -User-defined functions 
--Python modules and packages 
--Re module 
+
+-Python modules and packages
+
+-Re module
+
 -Functional programming
+
 -Functional programing lambda
+
 -Iterators 
+
 -Iteratools modules 
+
 -File operation , json ,xml
+
 
