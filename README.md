@@ -10,7 +10,7 @@ This a script that has all that a beginner needs and even a professional can use
 
 - Condition statement
 
-- loops in python
+- Loops in python
 
 - Math and random modules
 
