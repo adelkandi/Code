@@ -2,32 +2,32 @@
 This a script that has all that a beginner needs and even a professional can use it and can help anyone to see how python language work  
 
 ## This script has this content:
--Declaration of Variables 
+- Declaration of Variables 
 
--Data types
+- Data types
 
--Operations in python
+- Operations in python
 
--Condition statement
+- Condition statement
 
--loops in python
+- loops in python
 
--Math and random modules
+- Math and random modules
 
--User-defined functions 
+- User-defined functions 
 
--Python modules and packages
+- Python modules and packages
 
--Re module
+- Re module
 
--Functional programming
+- Functional programming
 
--Functional programing lambda
+- Functional programing lambda
 
--Iterators 
+- Iterators 
 
--Iteratools modules 
+- Iteratools modules 
 
--File operation , json ,xml
+- File operation , json ,xml
 
 
